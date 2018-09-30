@@ -7,3 +7,9 @@
 A small handful of testers have been invited, and more will be added in due course.
 
 As such, there are now bugs to track and changelogs to maintain. For now, GitHub's issue tracker will suffice.
+
+---
+
+# Changelog
+
+View the [changelog](https://github.com/ChrisNZL/Tallowmere2/wiki/Changelog) for version notes.
