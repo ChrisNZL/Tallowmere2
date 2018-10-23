@@ -1,4 +1,12 @@
-# Tallowmere 2 – Issue Tracker
+Tallowmere 2 quick links:
+- [Changelog](https://github.com/ChrisNZL/Tallowmere2/wiki/Changelog)
+- [Milestones](https://github.com/ChrisNZL/Tallowmere2/milestones)
+- [Issue Tracker](https://github.com/ChrisNZL/Tallowmere2/issues)
+- [tallowmere2.com](https://www.tallowmere2.com)
+
+---
+
+# Tallowmere 2
 
 ![Tallowmere 2: Curse of the Kittens – logo](https://i.imgur.com/LZxjbsB.png)
 
