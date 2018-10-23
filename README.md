@@ -4,10 +4,6 @@ Tallowmere 2 quick links:
 - [Issue Tracker](https://github.com/ChrisNZL/Tallowmere2/issues)
 - [tallowmere2.com](https://www.tallowmere2.com)
 
----
-
-# Tallowmere 2
-
 ![Tallowmere 2: Curse of the Kittens – logo](https://i.imgur.com/LZxjbsB.png)
 
 [Tallowmere 2](https://www.tallowmere2.com/) has begun a closed alpha on Steam (alpha started on September 22, 2018).
