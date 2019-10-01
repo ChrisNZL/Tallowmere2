@@ -1,12 +1,14 @@
-Tallowmere 2 quick links:
-- [Changelog](https://github.com/ChrisNZL/Tallowmere2/wiki/Changelog)
+![Tallowmere 2: Curse of the Kittens – banner](https://i.imgur.com/78YrV6R.jpg)
+
+_Tallowmere 2_ quick links:
+- [Changelog](https://github.com/ChrisNZL/Tallowmere2/wiki/Changelog) (Latest version: 0.0.15 / Alpha / Almost Early Access / 2 October, 2019)
 - [Milestones](https://github.com/ChrisNZL/Tallowmere2/milestones)
 - [Issue Tracker](https://github.com/ChrisNZL/Tallowmere2/issues)
 - [tallowmere2.com](https://www.tallowmere2.com)
 
-![Tallowmere 2: Curse of the Kittens – banner](https://i.imgur.com/78YrV6R.jpg)
 
-[Tallowmere 2](https://www.tallowmere2.com/) has begun a closed alpha on Steam (alpha started on September 22, 2018).
+
+[Tallowmere 2](https://www.tallowmere2.com/) started a closed alpha on Steam on September 22, 2018.
 
 A small handful of testers have been invited, and more will be added in due course.
 
