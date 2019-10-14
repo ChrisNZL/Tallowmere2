@@ -2,7 +2,7 @@
 
 ## Prepare to raise your shield. Again.
 
-_Tallowmere 2: Curse of the Kittens_ is an upcoming roguelike dungeon platformer game.
+[_Tallowmere 2: Curse of the Kittens_](https://www.tallowmere2.com/) is an upcoming roguelike dungeon platformer game.
 
 This GitHub area serves as an issue tracker and changelog for the upcoming Steam Early Access, mobile, and console builds.
 
