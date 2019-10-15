@@ -12,6 +12,7 @@ This GitHub area serves as an issue tracker and changelog for the upcoming Steam
 - **Issue Tracker:** [Open Issues](https://github.com/ChrisNZL/Tallowmere2/issues) / [Closed Issues](https://github.com/ChrisNZL/Tallowmere2/issues?q=is%3Aissue+is%3Aclosed)
 - **Official Website:** [tallowmere2.com](https://www.tallowmere2.com)
 - **Email:** [chris@tallowmere.com](mailto:chris@tallowmere.com)
+- **Dev Notes:** [Steam Cloud](https://github.com/ChrisNZL/Tallowmere2/wiki/Dev:-Steam-Cloud-notes) / [Android](https://github.com/ChrisNZL/Tallowmere2/wiki/Dev:-Android-notes)
 
 ---
 
