@@ -7,12 +7,14 @@
 This GitHub area serves as an issue tracker and changelog for the upcoming Steam Early Access, mobile, and console builds.
 
 ## Quick Links
-- [**Changelog:**](https://github.com/ChrisNZL/Tallowmere2/wiki/Changelog) Version 0.1.2 / Almost Early Access / 17 March, 2020
+- [**Changelog:**](https://github.com/ChrisNZL/Tallowmere2/wiki/Changelog) Version 0.1.3 / Almost Early Access / 20 April, 2020
 - **Milestones:** [Upcoming Versions](https://github.com/ChrisNZL/Tallowmere2/milestones) / [Completed Versions](https://github.com/ChrisNZL/Tallowmere2/milestones?state=closed)
 - **Issue Tracker:** [Open Issues](https://github.com/ChrisNZL/Tallowmere2/issues) / [Closed Issues](https://github.com/ChrisNZL/Tallowmere2/issues?q=is%3Aissue+is%3Aclosed)
 - **Official Website:** [tallowmere2.com](https://www.tallowmere2.com)
+- **Server Status:** [tallowmere2.com/servers](https://www.tallowmere2.com/servers)
 - **Email:** [chris@tallowmere.com](mailto:chris@tallowmere.com)
 - **Dev Notes:** [Steam Cloud](https://github.com/ChrisNZL/Tallowmere2/wiki/Dev:-Steam-Cloud-notes) / [Android](https://github.com/ChrisNZL/Tallowmere2/wiki/Dev:-Android-notes)
+- **Discord Chat:** [tallowmere2.com/discord](https://www.tallowmere2.com/discord)
 
 ---
 
