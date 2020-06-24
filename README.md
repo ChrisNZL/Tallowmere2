@@ -7,7 +7,7 @@
 This GitHub area serves as an issue tracker and changelog for the upcoming [Steam Early Access](https://store.steampowered.com/app/655740/Tallowmere_2_Curse_of_the_Kittens/), mobile, and console builds.
 
 ## Quick Links
-- [**Changelog:**](https://github.com/ChrisNZL/Tallowmere2/wiki/Changelog) Version 0.1.4a / Almost Early Access / 16 June, 2020
+- [**Changelog:**](https://github.com/ChrisNZL/Tallowmere2/wiki/Changelog) Version 0.1.4b / Almost Early Access / 24 June, 2020
 - **Milestones:** [Upcoming Versions](https://github.com/ChrisNZL/Tallowmere2/milestones) / [Completed Versions](https://github.com/ChrisNZL/Tallowmere2/milestones?state=closed)
 - **Issue Tracker:** [Open Issues](https://github.com/ChrisNZL/Tallowmere2/issues) / [Closed Issues](https://github.com/ChrisNZL/Tallowmere2/issues?q=is%3Aissue+is%3Aclosed)
 - **Official Website:** [tallowmere2.com](https://www.tallowmere2.com)
