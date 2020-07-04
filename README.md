@@ -4,25 +4,28 @@
 
 [_Tallowmere 2: Curse of the Kittens_](https://www.tallowmere2.com/) is an upcoming roguelike dungeon platformer game.
 
-This GitHub area serves as an issue tracker and changelog for the upcoming [Steam Early Access](https://store.steampowered.com/app/655740/Tallowmere_2_Curse_of_the_Kittens/), mobile, and console builds.
+This GitHub area serves as an issue tracker and changelog for the upcoming [Steam Early Access](https://store.steampowered.com/app/655740/Tallowmere_2_Curse_of_the_Kittens/), [itch.io](https://chrisnzl.itch.io/tallowmere-2-curse-of-the-kittens), mobile, and console builds.
 
 ## Quick Links
-- [**Changelog:**](https://github.com/ChrisNZL/Tallowmere2/wiki/Changelog) Version 0.1.4b / Almost Early Access / 24 June, 2020
+- [**Changelog:**](https://github.com/ChrisNZL/Tallowmere2/wiki/Changelog) Version 0.1.4c / Almost Early Access / 4 July, 2020
 - **Milestones:** [Upcoming Versions](https://github.com/ChrisNZL/Tallowmere2/milestones) / [Completed Versions](https://github.com/ChrisNZL/Tallowmere2/milestones?state=closed)
 - **Issue Tracker:** [Open Issues](https://github.com/ChrisNZL/Tallowmere2/issues) / [Closed Issues](https://github.com/ChrisNZL/Tallowmere2/issues?q=is%3Aissue+is%3Aclosed)
-- **Official Website:** [tallowmere2.com](https://www.tallowmere2.com)
-- **Server Status:** [tallowmere2.com/servers](https://www.tallowmere2.com/servers)
+- **Official Website:** [tallowmere2.com](https://tallowmere2.com)
+- **Server Status:** [tallowmere2.com/servers](https://tallowmere2.com/servers)
 - **Email:** [chris@tallowmere.com](mailto:chris@tallowmere.com)
+- **Translations:** [Testing via Google Sheets](https://github.com/ChrisNZL/Tallowmere2/wiki/Translations:-Testing-via-Google-Sheets)
 - **Dev Notes:** [Steam Cloud](https://github.com/ChrisNZL/Tallowmere2/wiki/Dev:-Steam-Cloud-notes) / [Android](https://github.com/ChrisNZL/Tallowmere2/wiki/Dev:-Android-notes)
-- **Discord Chat:** [tallowmere2.com/discord](https://www.tallowmere2.com/discord)
+- **Discord Chat:** [tallowmere2.com/discord](https://tallowmere2.com/discord)
 
 ---
 
 ## Alpha Info
 
-A closed alpha started on Steam in September 2018.
+As of June 2020, a free single-player and couch co-op demo is available on the Steam and itch.io pages.
 
-A small handful of testers have been invited. More are being added in due course.
+Originally, a closed alpha started on Steam in September 2018. A small handful of testers have been invited. More are being added in due course.
+
+The game is almost ready for Early Access.
 
 ---
 
