@@ -21,7 +21,7 @@ This GitHub area serves as an issue tracker and changelog for the upcoming [Stea
 
 ## Alpha Info
 
-As of June 2020, a free single-player and couch co-op demo is available on the Steam and itch.io pages.
+As of July 2020, a free single-player and couch co-op demo is available on [Steam](https://store.steampowered.com/app/655740/Tallowmere_2_Curse_of_the_Kittens/) and [itch.io](https://chrisnzl.itch.io/tallowmere-2-curse-of-the-kittens).
 
 Originally, a closed alpha started on Steam in September 2018. A small handful of testers have been invited. More are being added in due course.
 
