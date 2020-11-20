@@ -4,10 +4,13 @@
 
 [_Tallowmere 2: Curse of the Kittens_](https://www.tallowmere2.com/) is an upcoming roguelike dungeon platformer game.
 
+Early Access launch date for [Steam](https://store.steampowered.com/app/655740/Tallowmere_2_Curse_of_the_Kittens/) and [itch.io](https://chrisnzl.itch.io/tallowmere-2-curse-of-the-kittens):
+> Friday, 4 December, 2020 @ 11:00am PST (GMT-8)
+
 This GitHub area serves as an issue tracker and changelog for the upcoming [Steam Early Access](https://store.steampowered.com/app/655740/Tallowmere_2_Curse_of_the_Kittens/), [itch.io](https://chrisnzl.itch.io/tallowmere-2-curse-of-the-kittens), mobile, and console builds.
 
 ## Quick Links
-- [**Changelog:**](https://github.com/ChrisNZL/Tallowmere2/wiki/Changelog) Version 0.1.8 / Almost Early Access / 7 November, 2020
+- [**Changelog:**](https://github.com/ChrisNZL/Tallowmere2/wiki/Changelog) Version 0.1.8a / Almost Early Access / 19 November, 2020
 - **Milestones:** [Upcoming Versions](https://github.com/ChrisNZL/Tallowmere2/milestones) / [Completed Versions](https://github.com/ChrisNZL/Tallowmere2/milestones?state=closed)
 - **Issue Tracker:** [Open Issues](https://github.com/ChrisNZL/Tallowmere2/issues) / [Closed Issues](https://github.com/ChrisNZL/Tallowmere2/issues?q=is%3Aissue+is%3Aclosed)
 - **Official Website:** [tallowmere2.com](https://tallowmere2.com)
