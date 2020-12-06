@@ -1,20 +1,20 @@
 ![Tallowmere 2: Curse of the Kittens – banner](https://i.imgur.com/78YrV6R.jpg)
 
-## Prepare to raise your shield. Again.
+## Raise your shield. Again.
 
-[_**Tallowmere 2: Curse of the Kittens**_](https://www.tallowmere2.com/) is an upcoming action roguelike dungeon platformer game.
+[_**Tallowmere 2: Curse of the Kittens**_](https://www.tallowmere2.com/) is an action roguelike dungeon platformer game.
 
 Early Access launch date for [Steam](https://store.steampowered.com/app/655740/Tallowmere_2_Curse_of_the_Kittens/) and [itch.io](https://chrisnzl.itch.io/tallowmere-2-curse-of-the-kittens):
 > Friday, 4 December, 2020 @ 11:00am PST (GMT-8)
 
 ---
 
-This GitHub area serves as an issue tracker and changelog for the upcoming [Steam Early Access](https://store.steampowered.com/app/655740/Tallowmere_2_Curse_of_the_Kittens/), [itch.io](https://chrisnzl.itch.io/tallowmere-2-curse-of-the-kittens), mobile, and console builds.
+This GitHub area serves as an issue tracker and changelog for the [Steam Early Access](https://store.steampowered.com/app/655740/Tallowmere_2_Curse_of_the_Kittens/), [itch.io](https://chrisnzl.itch.io/tallowmere-2-curse-of-the-kittens), mobile, and console builds.
 
 ---
 
 ## Quick Links
-- [**Changelog:**](https://github.com/ChrisNZL/Tallowmere2/wiki/Changelog) Version 0.1.8a / Almost Early Access / 19 November, 2020
+- [**Changelog:**](https://github.com/ChrisNZL/Tallowmere2/wiki/Changelog) Version 0.2.0 / Early Access / 4 December, 2020
 - **Milestones:** [Upcoming Versions](https://github.com/ChrisNZL/Tallowmere2/milestones) / [Completed Versions](https://github.com/ChrisNZL/Tallowmere2/milestones?state=closed)
 - **Issue Tracker:** [Open Issues](https://github.com/ChrisNZL/Tallowmere2/issues) / [Closed Issues](https://github.com/ChrisNZL/Tallowmere2/issues?q=is%3Aissue+is%3Aclosed)
 - **Official Website:** [tallowmere2.com](https://tallowmere2.com)
@@ -26,20 +26,8 @@ This GitHub area serves as an issue tracker and changelog for the upcoming [Stea
 
 ---
 
-## Alpha Info
+## Other Links
 
-As of July 2020, a free single-player and couch co-op demo is available on [Steam](https://store.steampowered.com/app/655740/Tallowmere_2_Curse_of_the_Kittens/) and [itch.io](https://chrisnzl.itch.io/tallowmere-2-curse-of-the-kittens).
-
-Originally, a closed alpha started on Steam in September 2018. A small handful of testers have been invited. More are being added in due course.
-
-The game is almost ready for Early Access.
-
----
-
-## Follow
-
-Be notified when _Tallowmere 2_ is ready for sale on [Steam Early Access](https://store.steampowered.com/app/655740/Tallowmere_2_Curse_of_the_Kittens/):
-- Add to your wishlist on [_Tallowmere 2_'s Steam page](https://store.steampowered.com/app/655740/Tallowmere_2_Curse_of_the_Kittens/)
 - Follow [Chris McFarland's developer page on Steam](https://store.steampowered.com/dev/cmcfarland/)
 - Follow [@Tallowmere on Twitter](https://twitter.com/Tallowmere)
 - Follow [Tallowmere on Facebook](https://facebook.com/Tallowmere)
