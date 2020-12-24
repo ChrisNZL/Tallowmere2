@@ -4,8 +4,7 @@
 
 [_**Tallowmere 2: Curse of the Kittens**_](https://www.tallowmere2.com/) is an action roguelike dungeon platformer game.
 
-Launched as Early Access on [Steam](https://store.steampowered.com/app/655740/Tallowmere_2_Curse_of_the_Kittens/) and [itch.io](https://chrisnzl.itch.io/tallowmere-2-curse-of-the-kittens) on:
-> Friday, 4 December, 2020 @ 11:00am PST (GMT-8)
+Launched as Early Access on [Steam](https://store.steampowered.com/app/655740/Tallowmere_2_Curse_of_the_Kittens/) and [itch.io](https://chrisnzl.itch.io/tallowmere-2-curse-of-the-kittens) on 4 December, 2020.
 
 ---
 
