@@ -13,7 +13,7 @@ This GitHub area serves as an issue tracker and changelog for the [Steam Early A
 ---
 
 ## Quick Links
-- [**Changelog:**](https://github.com/ChrisNZL/Tallowmere2/wiki/Changelog) Version 0.2.5 / Early Access / 16 March, 2021
+- [**Changelog:**](https://github.com/ChrisNZL/Tallowmere2/wiki/Changelog) Version 0.2.6 / Early Access / 24 March, 2021
 - **Milestones:** [Upcoming Versions](https://github.com/ChrisNZL/Tallowmere2/milestones) / [Completed Versions](https://github.com/ChrisNZL/Tallowmere2/milestones?state=closed)
 - **Issue Tracker:** [Open Issues](https://github.com/ChrisNZL/Tallowmere2/issues) / [Closed Issues](https://github.com/ChrisNZL/Tallowmere2/issues?q=is%3Aissue+is%3Aclosed)
 - **Official Website:** [tallowmere2.com](https://tallowmere2.com)
