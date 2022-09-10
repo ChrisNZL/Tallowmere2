@@ -10,6 +10,8 @@
 
 Launched as Early Access on [Steam](https://store.steampowered.com/app/655740/Tallowmere_2_Curse_of_the_Kittens/) and [itch.io](https://chrisnzl.itch.io/tallowmere-2-curse-of-the-kittens) on 4 December, 2020.
 
+iOS and Android versions are almost ready.
+
 ---
 
 This GitHub area serves as an issue tracker and changelog for the [Steam Early Access](https://store.steampowered.com/app/655740/Tallowmere_2_Curse_of_the_Kittens/), [itch.io](https://chrisnzl.itch.io/tallowmere-2-curse-of-the-kittens), mobile, and console builds.
