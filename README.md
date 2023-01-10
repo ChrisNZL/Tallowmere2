@@ -16,15 +16,15 @@
 
 ---
 
-This GitHub area serves as an issue tracker and changelog for the [Steam Early Access](https://store.steampowered.com/app/655740/Tallowmere_2_Curse_of_the_Kittens/), [itch.io](https://chrisnzl.itch.io/tallowmere-2-curse-of-the-kittens), mobile, and console builds.
+This GitHub area serves mainly serves an issue tracker for the [Steam Early Access](https://store.steampowered.com/app/655740/Tallowmere_2_Curse_of_the_Kittens/), [itch.io](https://chrisnzl.itch.io/tallowmere-2-curse-of-the-kittens), mobile, and console builds.
 
 ---
 
 ## Quick Links
-- [**Changelog:**](https://github.com/ChrisNZL/Tallowmere2/wiki/Changelog) Version 0.3.7g / Early Access / 26 November, 2022
 - **Milestones:** [Upcoming Versions](https://github.com/ChrisNZL/Tallowmere2/milestones) / [Completed Versions](https://github.com/ChrisNZL/Tallowmere2/milestones?state=closed)
 - **Issue Tracker:** [Open Issues](https://github.com/ChrisNZL/Tallowmere2/issues) / [Closed Issues](https://github.com/ChrisNZL/Tallowmere2/issues?q=is%3Aissue+is%3Aclosed)
 - **Official Website:** [tallowmere2.com](https://tallowmere2.com)
+- **Changelog:** [tallowmere2.com/changelog](https://tallowmere2.com/changelog)
 - **Server Status:** [tallowmere2.com/servers](https://tallowmere2.com/servers)
 - **Email:** [chris@tallowmere.com](mailto:chris@tallowmere.com)
 - **Translations:** [Testing via Google Sheets](https://github.com/ChrisNZL/Tallowmere2/wiki/Translations:-Testing-via-Google-Sheets)
